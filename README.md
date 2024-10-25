@@ -8,3 +8,9 @@ They define the boundaries of a user story and are used to confirm when a story 
 ---
 
 **Read the blog post: [How Australian supermarket Coles creates accessible user stories](https://www.canaxess.com.au/articles/accessibility-acceptance-criteria/)**
+
+---
+
+The AACs developed by the Coles Accessibility Team were inspired by the UK Government's Government Digital Service (GDS) work detailed in the blog post [Improving accessibility with accessibility acceptance criteria](https://insidegovuk.blog.gov.uk/2018/01/24/improving-accessibility-with-accessibility-acceptance-criteria/).
+
+The Accessibility Acceptance Criteria are kindly shared by [Mel O'Brien](https://www.linkedin.com/in/melaniejobrien/) publicly through her [GitHub repository](https://github.com/meljobrien3/accessibility-acceptance-criteria), the original IP belongs to [Coles](https://www.coles.com.au/).
